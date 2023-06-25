@@ -235,10 +235,11 @@ nav > ul {
 }
 
 #watch-this-video {
-  margin-top: 30px;
+  margin-top: 20px;
   display: flex;
   justify-content: center;
 }
+
 
 .about {
   background-image: url(office.jpg);
